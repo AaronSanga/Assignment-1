@@ -2,4 +2,7 @@ NOTE: When I first started the assignment I was accidentally working in a differ
 
 Sources used:
 TA Material: https://github.com/ghazalbangash/ResumeWebProject/blob/main/index.html
-W3 Schools: https://www.w3schools.com/css/css3_gradients.asp
+
+W3 Schools gradients: https://www.w3schools.com/css/css3_gradients.asp
+
+W3 Schools forms: https://www.w3schools.com/html/html_forms.asp
