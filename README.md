@@ -6,3 +6,7 @@ TA Material: https://github.com/ghazalbangash/ResumeWebProject/blob/main/index.h
 W3 Schools gradients: https://www.w3schools.com/css/css3_gradients.asp
 
 W3 Schools forms: https://www.w3schools.com/html/html_forms.asp
+
+CSS Flexbox Layout Guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+
