@@ -135,6 +135,7 @@ html, body {
     margin: 0 auto; 
 }
 .about-video {
+    margin-top: 80px;
     display: flex;
     justify-content: flex-start;
 }
@@ -186,10 +187,12 @@ html, body {
 .project-image img {
     width: 100%;
     border-radius: 8px;
+    margin-right: 40px;
 }
 .project-text {
     text-align: left;
     padding-left: 20px;
+    margin-right: 40px;
 }
 .project-text h3 {
     text-align: center;
